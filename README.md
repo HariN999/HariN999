@@ -1,8 +1,8 @@
-## Hey there! 👋 I'm Hariharan 🚀
+# Hey there! 👋 I'm Hariharan 🚀
 
 Welcome to my GitHub profile! Check out my work and feel free to collaborate! 😎
 
-# 🔍 About Me
+## 🔍 About Me
 
 💻 Interests: Passionate about coding, AI, and problem-solving. I enjoy exploring new technologies and building innovative solutions.
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Check out my work and feel free to collaborate! �
 
  💡 Collaborating On: Open to working on AI/ML, web development, and innovative projects. Let’s build something amazing together!
 
-# 📫 How to Reach Me:
+## 📫 How to Reach Me:
 
 LinkedIn: (https://www.linkedin.com/in/narlakanti-hariharan/)
 
