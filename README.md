@@ -8,5 +8,6 @@ Welcome to my GitHub profile! Check out my work and feel free to collaborate! �
 📫 How to Reach Me:
 
 LinkedIn: linkedin.com/in/narlakanti-hariharan
+
 Email: narlakantihariharan@gmail.com
 😄 Pronouns: He/Him
