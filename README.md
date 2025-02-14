@@ -7,7 +7,8 @@ Welcome to my GitHub profile! Check out my work and feel free to collaborate! �
 💡 Collaborating On: Open to working on AI/ML, web development, and innovative projects. Let’s build something amazing together!
 📫 How to Reach Me:
 
-LinkedIn: linkedin.com/in/narlakanti-hariharan
+LinkedIn: (https://www.linkedin.com/in/narlakanti-hariharan/)
 
 Email: narlakantihariharan@gmail.com
+
 😄 Pronouns: He/Him
