@@ -1,8 +1,8 @@
-Hey there! 👋 I'm Hariharan 🚀
+# Hey there! 👋 I'm Hariharan 🚀
 
 Welcome to my GitHub profile! Check out my work and feel free to collaborate! 😎
 
-🔍 About Me
+# 🔍 About Me
 
 💻 Interests: Passionate about coding, AI, and problem-solving. I enjoy exploring new technologies and building innovative solutions.
 
