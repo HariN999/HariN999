@@ -2,18 +2,39 @@
 
 Welcome to my GitHub profile! Check out my work and feel free to collaborate! 😎
 
+---
+
 ## 🔍 About Me
 
-💻 Interests: Passionate about coding, AI, and problem-solving. I enjoy exploring new technologies and building innovative solutions.
+💻 **Interests:** Passionate about coding, AI, and problem-solving. I enjoy exploring new technologies and building innovative solutions.  
 
-🌱 Currently Learning: Full-Stack Web Development & DSA with Java.
+🌱 **Currently Learning:** Full-Stack Web Development, DSA with Java, and AI/ML.  
 
- 💡 Collaborating On: Open to working on AI/ML, web development, and innovative projects. Let’s build something amazing together!
+💡 **Collaborating On:** Open to working on AI/ML, web development, and innovative projects. Let’s build something amazing together!  
 
-## 📫 How to Reach Me:
+---
 
-LinkedIn: (https://www.linkedin.com/in/narlakanti-hariharan/)
+## 🌐  Projects
 
-Email: narlakantihariharan@gmail.com
+Some of my notable projects (check my portfolio for live demos):
 
-😄 Pronouns: He/Him
+- **AgroAid:** ML-based pest diagnosis & pesticide recommendation with multilingual support. [Repo](https://github.com/HariN999/AgroAid)  
+- **SocialeX:** Full-stack MERN social media web app with authentication, posts, and responsive design. [Repo](https://github.com/HariN999/SocialeX)  
+- **Smart-FAQ:** Intelligent FAQ system with smart search, categorization, and admin panel. [Repo](https://github.com/HariN999/Smart-FAQ)  
+- **Season Spot:** Seasonal food & travel recommendations across Indian states. [Repo](https://github.com/HariN999/Season-Spot)  
+ 
+## 📫 How to Reach Me
+
+- **LinkedIn:** [Hariharan Narlakanti](https://www.linkedin.com/in/narlakanti-hariharan/)  
+- **Email:** [narlakantihariharan@gmail.com](mailto:narlakantihariharan@gmail.com)  
+
+😄 **Pronouns:** He/Him  
+
+---
+## 📈 GitHub Stats
+
+![Harin999's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HariN999&show_icons=true&hide_title=true)
+
+---
+
+*Let's connect and create something amazing together!* 🚀
