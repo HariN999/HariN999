@@ -14,15 +14,19 @@ Welcome to my GitHub profile! Check out my work and feel free to collaborate! �
 
 ---
 
-## 🌐  Projects
+## 🌐 Projects
 
-Some of my notable projects (check my portfolio for live demos):
+Some of my notable projects (check my portfolio for live demos):  
 
 - **AgroAid:** ML-based pest diagnosis & pesticide recommendation with multilingual support. [Repo](https://github.com/HariN999/AgroAid)  
 - **SocialeX:** Full-stack MERN social media web app with authentication, posts, and responsive design. [Repo](https://github.com/HariN999/SocialeX)  
 - **Smart-FAQ:** Intelligent FAQ system with smart search, categorization, and admin panel. [Repo](https://github.com/HariN999/Smart-FAQ)  
 - **Season Spot:** Seasonal food & travel recommendations across Indian states. [Repo](https://github.com/HariN999/Season-Spot)  
- 
+
+**🌐 View all projects & live demos on my portfolio:** [Portfolio Website](https://portfolio-harin999s-projects.vercel.app/)  
+
+---
+
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [Hariharan Narlakanti](https://www.linkedin.com/in/narlakanti-hariharan/)  
@@ -31,6 +35,7 @@ Some of my notable projects (check my portfolio for live demos):
 😄 **Pronouns:** He/Him  
 
 ---
+
 ## 📈 GitHub Stats
 
 ![Harin999's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HariN999&show_icons=true&hide_title=true)
