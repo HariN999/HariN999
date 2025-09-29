@@ -36,10 +36,4 @@ Some of my notable projects (check my portfolio for live demos):
 
 ---
 
-## 📈 GitHub Stats
-
-![Harin999's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HariN999&show_icons=true&hide_title=true)
-
----
-
 *Let's connect and create something amazing together!* 🚀
