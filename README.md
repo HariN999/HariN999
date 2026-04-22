@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Hariharan Narlakanti
 
 🎯 Aspiring Software Development Engineer (SDE) | AI/ML Enthusiast
+
 💡 Passionate about building real-world AI systems and scalable backend applications
 
 ---
@@ -16,7 +17,7 @@
 
 ## 🔥 Featured Project
 
-### 📰 Automated Telugu Text Summarization & Speech Generation
+### 📰 Automated Telugu Text Summarization & Speech Generation (NLP)
 
 * Built an end-to-end NLP system for Telugu news understanding
 * Implemented **TF-IDF + mT5 (fine-tuned)** models
