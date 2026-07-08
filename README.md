@@ -103,5 +103,4 @@ To build reliable AI systems that combine research with practical software engin
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/narlakanti-hariharan
-- 💻 GitHub: github.com/HariN999
 - 📧 Email: narlakantihariharan@gmail.com
