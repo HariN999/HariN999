@@ -1,75 +1,107 @@
 # 👋 Hi, I'm Hariharan Narlakanti
 
-🎯 Aspiring Software Development Engineer (SDE) | AI/ML Enthusiast
+🚀 AI Engineer | Backend Developer | Software Engineer
 
-💡 Passionate about building real-world AI systems and scalable backend applications
+I build AI-powered applications with a focus on **NLP, FastAPI, LLMs, and scalable backend systems**. I enjoy turning research ideas into production-ready software.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Final Year Engineering Student
-* 💻 Focused on **Data Structures & Algorithms (Python)**
-* 🤖 Exploring **AI/ML (NLP, Transformers, GenAI)**
-* 🌐 Full Stack Developer (React + FastAPI)
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning
+- 💻 Preparing for Software Engineering & AI Engineer roles
+- 🤖 Interested in NLP, Generative AI, and LLM applications
+- ⚡ Building production-ready AI systems with FastAPI and React
+- 📍 Hyderabad, India
 
 ---
 
-## 🔥 Featured Project
+## 🌟 Featured Projects
 
-### 📰 Automated Telugu Text Summarization & Speech Generation (NLP)
+### 📰 Saaram — Telugu News Summarization & Speech
 
-* Built an end-to-end NLP system for Telugu news understanding
-* Implemented **TF-IDF + mT5 (fine-tuned)** models
-* Developed **FastAPI backend + React frontend**
-* Integrated **Text-to-Speech (Edge TTS)**
-* Designed modular pipeline with runtime model switching
+An AI-powered Telugu news summarization system featuring:
 
-👉 Focus Areas:
+- 🧠 Morphology-aware TF-IDF summarization
+- 🤖 Transformer-based mT5 summarization
+- ⚡ Adaptive runtime inference router
+- 🔊 Telugu neural Text-to-Speech
+- 🌐 React frontend + FastAPI backend
+- 🐳 Deployed on Hugging Face Spaces & Vercel
 
-* NLP for low-resource languages
-* Transformer fine-tuning
-* Full-stack AI system design
+**Research:**  
+*Saaram: Resource-Aware Telugu News Summarization with Morphology-Aware TF-IDF and mT5*  
+Submitted to **CIS 2026 (Springer LNNS)**.
+
+➡️ Repository: **Saaram-telugu-summarizer**
+
+---
+
+### 🔬 ResearchCompass
+
+AI-powered research assistant for:
+
+- Research gap discovery
+- Novelty assessment
+- Paper reasoning
+- Implementation guidance
+
+Built using FastAPI, React, and LLM APIs.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-Python, Java, JavaScript
+### Languages
+- Python
+- Java
+- JavaScript
+- SQL
 
-**Frontend:**
-React, HTML, CSS
+### AI / ML
+- Hugging Face Transformers
+- PyTorch
+- Scikit-learn
+- NLP
+- GenAI
 
-**Backend:**
-FastAPI, REST APIs
+### Backend
+- FastAPI
+- REST APIs
+- Pydantic
 
-**AI/ML:**
-Transformers (mT5), NLP, Scikit-learn
+### Frontend
+- React
+- Vite
+- Tailwind CSS
 
-**Tools:**
-Git, GitHub, VS Code, Postman
+### Databases & Tools
+- Git
+- GitHub
+- MongoDB
+- Docker
+- Postman
 
 ---
 
-## 📈 Currently Working On
+## 📚 Currently Learning
 
-* Strengthening **DSA for placements**
-* Building **AI/ML projects (NLP focus)**
-* Improving **system design & backend skills**
+- Data Structures & Algorithms
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- LLM Application Development
+- AI System Design
+
+---
+
+## 🎯 Career Goal
+
+To build reliable AI systems that combine research with practical software engineering, specializing in NLP, backend development, and intelligent applications.
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/narlakanti-hariharan
-* 💻 GitHub: https://github.com/harin999
-* 📧 Email: [narlakantihariharan@gmail.com](mailto:narlakantihariharan@gmail.com)
-
----
-
-## ⚡ Vision
-
-To become a skilled Software Engineer specializing in AI/ML, building impactful and scalable intelligent systems.
-
----
+- 💼 LinkedIn: www.linkedin.com/in/narlakanti-hariharan
+- 💻 GitHub: github.com/HariN999
+- 📧 Email: narlakantihariharan@gmail.com
