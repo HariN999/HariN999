@@ -1,106 +1,106 @@
-# 👋 Hi, I'm Hariharan Narlakanti
+# Hi, I'm Hariharan Narlakanti 👋
 
-🚀 AI Engineer | Backend Developer | Software Engineer
+**AI Engineer | Backend Engineer | Building production-ready AI systems, APIs, and intelligent applications.**
 
-I build AI-powered applications with a focus on **NLP, FastAPI, LLMs, and scalable backend systems**. I enjoy turning research ideas into production-ready software.
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning
-- 💻 Preparing for Software Engineering & AI Engineer roles
-- 🤖 Interested in NLP, Generative AI, and LLM applications
-- ⚡ Building production-ready AI systems with FastAPI and React
-- 📍 Hyderabad, India
+📍 Hyderabad, India  
+🌐 **Portfolio:** https://portfolio-harin999s-projects.vercel.app  
+💼 **LinkedIn:** https://www.linkedin.com/in/narlakanti-hariharan  
+📧 **Email:** narlakantihariharan@gmail.com
 
 ---
 
-## 🌟 Featured Projects
+## About Me
 
-### 📰 Saaram — Telugu News Summarization & Speech
+I build production-ready backend systems and AI applications using **Python, FastAPI, and modern LLM technologies**. My work focuses on **Retrieval-Augmented Generation (RAG), NLP, semantic search, and scalable API architectures**, bridging research with real-world software engineering.
 
-An AI-powered Telugu news summarization system featuring:
-
-- 🧠 Morphology-aware TF-IDF summarization
-- 🤖 Transformer-based mT5 summarization
-- ⚡ Adaptive runtime inference router
-- 🔊 Telugu neural Text-to-Speech
-- 🌐 React frontend + FastAPI backend
-- 🐳 Deployed on Hugging Face Spaces & Vercel
-
-**Research:**  
-*Saaram: Resource-Aware Telugu News Summarization with Morphology-Aware TF-IDF and mT5*  
-Submitted to **CIS 2026 (Springer LNNS)**.
-
-➡️ Repository: **Saaram-telugu-summarizer**
+**Interests:** AI Engineering • Backend Engineering • NLP • Generative AI • RAG • FastAPI • Python
 
 ---
+
+## Featured Projects
 
 ### 🔬 ResearchCompass
+**AI-powered research intelligence platform** for analyzing scientific papers using Retrieval-Augmented Generation (RAG).
 
-AI-powered research assistant for:
+- Multi-PDF analysis with semantic search
+- Research gap discovery and cross-paper comparison
+- AI-generated literature reviews and grounded document analysis
+- FastAPI backend with ChromaDB-powered retrieval pipeline
 
-- Research gap discovery
-- Novelty assessment
-- Paper reasoning
-- Implementation guidance
+**Tech Stack:** FastAPI • Next.js • Docker • ChromaDB • SentenceTransformers • Groq API • RAG
 
-Built using FastAPI, React, and LLM APIs.
+🔗 Repository: https://github.com/HariN999/ResearchCompass  
+🌐 Live Demo: https://research-compass-gray.vercel.app/
 
 ---
 
-## 🛠️ Tech Stack
+### 📰 Saaram
+**AI-powered Telugu NLP platform** for text summarization and speech generation.
+
+- Hybrid summarization using morphology-aware TF-IDF and mT5
+- Adaptive inference routing for efficient production deployment
+- Telugu neural Text-to-Speech
+- Production deployment on Hugging Face Spaces and Vercel
+
+**Tech Stack:** FastAPI • React • Docker • Hugging Face Transformers • mT5 • TF-IDF
+
+📄 Research paper submitted to **CIS 2026 (Springer LNNS)**
+
+🔗 Repository: https://github.com/HariN999/Saaram-telugu-summarizer  
+🌐 Live Demo: https://automated-telugu-text-summarization.vercel.app/
+
+---
+
+### 💬 Smart-FAQ
+**AI-powered semantic retrieval platform** for intelligent FAQ search.
+
+- Semantic search using SentenceTransformer embeddings
+- JWT-secured admin dashboard
+- Confidence-scored natural-language retrieval
+- RESTful backend with MongoDB integration
+
+**Tech Stack:** FastAPI • React • MongoDB • SentenceTransformers • JWT
+
+🔗 Repository: https://github.com/HariN999/Smart-FAQ
+
+---
+
+## Tech Stack
 
 ### Languages
-- Python
-- Java
-- JavaScript
-- SQL
-
-### AI / ML
-- Hugging Face Transformers
-- PyTorch
-- Scikit-learn
-- NLP
-- GenAI
+Python • Java • JavaScript • SQL
 
 ### Backend
-- FastAPI
-- REST APIs
-- Pydantic
+FastAPI • Flask • REST APIs • JWT Authentication • Pydantic
+
+### AI / ML
+PyTorch • Transformers • SentenceTransformers • ChromaDB • Retrieval-Augmented Generation (RAG) • Groq API
 
 ### Frontend
-- React
-- Vite
-- Tailwind CSS
+React • Next.js • Tailwind CSS • Vite
 
-### Databases & Tools
-- Git
-- GitHub
-- MongoDB
-- Docker
-- Postman
+### DevOps
+Docker • Git • Linux • Vercel • Render
+
+### Databases
+PostgreSQL • MongoDB • MySQL
 
 ---
 
-## 📚 Currently Learning
+## Achievements
 
-- Data Structures & Algorithms
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- LLM Application Development
-- AI System Design
+- 🏆 Best Project Award — University Project Expo
+- 📄 Co-authored research paper submitted to **CIS 2026 (Springer LNNS)**
+- 🤖 Microsoft Agents League Hackathon Participant
 
 ---
 
-## 🎯 Career Goal
+## Currently
 
-To build reliable AI systems that combine research with practical software engineering, specializing in NLP, backend development, and intelligent applications.
+I'm actively seeking opportunities as a **Software Engineer**, **Backend Engineer**, or **AI Engineer**.
 
----
+If you're building products in AI, backend systems, or developer tooling, I'd love to connect and collaborate.
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: www.linkedin.com/in/narlakanti-hariharan
+- 🌐 Portfolio: https://portfolio-harin999s-projects.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/narlakanti-hariharan
 - 📧 Email: narlakantihariharan@gmail.com
