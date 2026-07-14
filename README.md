@@ -1,105 +1,150 @@
 # Hi, I'm Hariharan Narlakanti 👋
 
-**AI Engineer | Backend Engineer | Building production-ready AI systems, APIs, and intelligent applications.**
+**AI Engineer • Backend Engineer • Software Engineer**
 
-📍 Hyderabad, India  
-🌐 **Portfolio:** https://portfolio-harin999s-projects.vercel.app  
-💼 **LinkedIn:** https://www.linkedin.com/in/narlakanti-hariharan  
-📧 **Email:** narlakantihariharan@gmail.com
+I build production-ready AI applications, backend systems, and developer tools using **Python, FastAPI, and modern LLM technologies**. My interests span **Applied AI, NLP, Retrieval-Augmented Generation (RAG), and scalable backend engineering**.
 
----
+📍 Hyderabad, India
 
-## About Me
-
-I build production-ready backend systems and AI applications using **Python, FastAPI, and modern LLM technologies**. My work focuses on **Retrieval-Augmented Generation (RAG), NLP, semantic search, and scalable API architectures**, bridging research with real-world software engineering.
-
-**Interests:** AI Engineering • Backend Engineering • NLP • Generative AI • RAG • FastAPI • Python
+[🌐 Portfolio](https://portfolio-harin999s-projects.vercel.app) •
+[💼 LinkedIn](https://www.linkedin.com/in/narlakanti-hariharan) •
+[📧 Email](mailto:narlakantihariharan@gmail.com)
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-### 🔬 ResearchCompass
-**AI-powered research intelligence platform** for analyzing scientific papers using Retrieval-Augmented Generation (RAG).
+## 🔬 ResearchCompass
 
-- Multi-PDF analysis with semantic search
-- Research gap discovery and cross-paper comparison
-- AI-generated literature reviews and grounded document analysis
-- FastAPI backend with ChromaDB-powered retrieval pipeline
+AI-powered research intelligence platform that analyzes academic papers using Retrieval-Augmented Generation (RAG).
 
-**Tech Stack:** FastAPI • Next.js • Docker • ChromaDB • SentenceTransformers • Groq API • RAG
+**Highlights**
 
-🔗 Repository: https://github.com/HariN999/ResearchCompass  
-🌐 Live Demo: https://research-compass-gray.vercel.app/
+- Multi-document research analysis
+- Semantic search across papers
+- Literature review generation
+- Research gap discovery
+- Grounded AI responses with source citations
+
+**Tech**
+
+`FastAPI` • `Next.js` • `Docker` • `ChromaDB` • `SentenceTransformers` • `Groq API`
+
+🔗 Repository: https://github.com/HariN999/ResearchCompass
+
+🌐 Live: https://research-compass-gray.vercel.app/
 
 ---
 
-### 📰 Saaram
-**AI-powered Telugu NLP platform** for text summarization and speech generation.
+## 📰 Saaram
 
-- Hybrid summarization using morphology-aware TF-IDF and mT5
-- Adaptive inference routing for efficient production deployment
+Production-ready Telugu NLP platform for text summarization and speech generation.
+
+**Highlights**
+
+- Hybrid TF-IDF + Transformer summarization
+- Adaptive model routing
 - Telugu neural Text-to-Speech
-- Production deployment on Hugging Face Spaces and Vercel
+- Optimized inference pipeline
+- Production deployment
 
-**Tech Stack:** FastAPI • React • Docker • Hugging Face Transformers • mT5 • TF-IDF
+**Tech**
+
+`FastAPI` • `React` • `Docker` • `Transformers` • `mT5` • `TF-IDF`
 
 📄 Research paper submitted to **CIS 2026 (Springer LNNS)**
 
-🔗 Repository: https://github.com/HariN999/Saaram-telugu-summarizer  
-🌐 Live Demo: https://automated-telugu-text-summarization.vercel.app/
+🔗 Repository: https://github.com/HariN999/Saaram-telugu-summarizer
+
+🌐 Live: https://automated-telugu-text-summarization.vercel.app/
 
 ---
 
-### 💬 Smart-FAQ
-**AI-powered semantic retrieval platform** for intelligent FAQ search.
+## 💬 Smart-FAQ
 
-- Semantic search using SentenceTransformer embeddings
-- JWT-secured admin dashboard
-- Confidence-scored natural-language retrieval
-- RESTful backend with MongoDB integration
+AI-powered semantic FAQ platform that retrieves answers using sentence embeddings instead of keyword matching.
 
-**Tech Stack:** FastAPI • React • MongoDB • SentenceTransformers • JWT
+**Highlights**
+
+- Semantic search
+- JWT-protected admin dashboard
+- Confidence-scored retrieval
+- RESTful API
+- MongoDB integration
+
+**Tech**
+
+`FastAPI` • `React` • `MongoDB` • `SentenceTransformers`
 
 🔗 Repository: https://github.com/HariN999/Smart-FAQ
 
 ---
 
-## Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
+
 Python • Java • JavaScript • SQL
 
 ### Backend
-FastAPI • Flask • REST APIs • JWT Authentication • Pydantic
+
+FastAPI • Flask • REST APIs • JWT Authentication • Node.js • Express.js
 
 ### AI / ML
+
 PyTorch • Transformers • SentenceTransformers • ChromaDB • Retrieval-Augmented Generation (RAG) • Groq API
 
-### Frontend
-React • Next.js • Tailwind CSS • Vite
-
-### DevOps
-Docker • Git • Linux • Vercel • Render
-
 ### Databases
+
 PostgreSQL • MongoDB • MySQL
+
+### Frontend
+
+React • Next.js • Vite
+
+### DevOps & Tools
+
+Docker • Git • Linux • Vercel • Render
 
 ---
 
-## Achievements
+# 🏆 Achievements
 
-- 🏆 Best Project Award — University Project Expo
+- 🥇 Best Project Award — University Project Expo
 - 📄 Co-authored research paper submitted to **CIS 2026 (Springer LNNS)**
 - 🤖 Microsoft Agents League Hackathon Participant
 
 ---
 
-## Currently
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HariN999&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HariN999&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariN999&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+- Large Language Model (LLM) Applications
+- AI System Design
+- Backend Architecture
+- Distributed Systems
+- Retrieval-Augmented Generation
+- Scalable API Design
+
+---
+
+# 🤝 Let's Connect
 
 I'm actively seeking opportunities as a **Software Engineer**, **Backend Engineer**, or **AI Engineer**.
 
-If you're building products in AI, backend systems, or developer tooling, I'd love to connect and collaborate.
+If you're building products involving AI, backend systems, or developer tooling, I'd love to connect.
 
 - 🌐 Portfolio: https://portfolio-harin999s-projects.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/narlakanti-hariharan
