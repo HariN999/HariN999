@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Hariharan Narlakanti</h1>
-
-<h3 align="center">
-AI Engineer • Backend Engineer • Building Intelligent Software
-</h3>
+<h1 align="center">Hi, I'm Hariharan Narlakanti 👋</h1>
 
 <p align="center">
-I build production-ready AI applications, scalable backend systems, and developer tools using <strong>Python, FastAPI, LLMs, RAG, NLP, and modern cloud technologies.</strong>
+  <strong>AI Engineer • Backend Engineer</strong>
+</p>
+
+<p align="center">
+I build AI-powered applications and backend systems using Python, FastAPI, NLP, LLMs, and modern ML tooling.
 </p>
 
 <p align="center">
@@ -13,172 +13,100 @@ I build production-ready AI applications, scalable backend systems, and develope
 </p>
 
 <p align="center">
-<a href="https://portfolio-harin999s-projects.vercel.app">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/narlakanti-hariharan">💼 LinkedIn</a> •
-<a href="mailto:narlakantihariharan@gmail.com">📧 Email</a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=HariN999&label=Profile%20Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/HariN999?label=Followers&style=flat"/>
+<a href="https://portfolio-harin999s-projects.vercel.app">Portfolio</a> •
+<a href="https://www.linkedin.com/in/narlakanti-hariharan">LinkedIn</a> •
+<a href="mailto:narlakantihariharan@gmail.com">Email</a>
 </p>
 
 ---
 
-# 🚀 About Me
+## About Me
 
-I'm a Computer Science student specializing in **Artificial Intelligence & Machine Learning** with a passion for building **AI-powered applications** and **high-performance backend systems**.
+Computer Science graduate specializing in Artificial Intelligence and Machine Learning.
 
-My interests include **LLMs, RAG, NLP, AI Agents, distributed systems, and scalable API development**. I enjoy turning research ideas into production-ready software that solves real-world problems.
+I enjoy building practical AI systems—from NLP and semantic search applications to LLM-powered tools and backend APIs. My work focuses on turning ideas and research into usable software.
 
----
-
-# 🎯 Current Focus
-
-- 🤖 AI Engineering
-- ⚡ Backend Engineering
-- 🧠 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🏗️ System Design
-- ☁️ Distributed Systems
+**Currently focused on:**
+- AI Engineering and LLM applications
+- Backend development with FastAPI
+- NLP and semantic search
+- Retrieval-Augmented Generation (RAG)
+- System design and production-oriented software
 
 ---
 
-## 📊 GitHub Analytics 
-<p align="center"> <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=HariN999&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://streak-stats.demolab.com/?user=HariN999&theme=github-dark&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> 
-<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=HariN999&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" /> </p>
+## Featured Projects
 
----
+### 🔬 ResearchCompass — AI Research Assistant
 
-# 🚀 Featured Projects
-
-## 🔬 ResearchCompass
-### AI-powered Research Assistant
-
-Transform research papers into an intelligent knowledge base using **Retrieval-Augmented Generation (RAG)**, semantic search, and modern LLM workflows.
+An AI-powered platform that helps users analyze and interact with research papers using document processing, semantic search, and LLM workflows.
 
 **Highlights**
-- 🔍 Semantic document search
-- 🤖 AI-powered question answering
-- 📚 Context-aware document retrieval
-- ⚡ Scalable FastAPI backend
+- Research paper analysis
+- Semantic document search
+- Context-aware question answering
+- Structured AI-generated insights
 
-**Tech Stack**
-
-`Python` • `FastAPI` • `SentenceTransformers` • `ChromaDB` • `LLMs`
+**Stack:** Python • FastAPI • SentenceTransformers • ChromaDB • LLM APIs
 
 ---
 
-## 🗣 Saaram
-### Telugu NLP & Speech Platform
+### 🗣️ Saaram — Telugu NLP & Speech Platform
 
-An AI-powered platform for **Telugu language understanding**, summarization, and speech generation using modern Transformer architectures.
+An AI-powered Telugu text summarization and speech generation platform combining traditional NLP techniques and Transformer-based models.
 
 **Highlights**
+- Multi-strategy text summarization
+- Transformer-based NLP
+- Telugu language processing
+- Text-to-Speech generation
+- FastAPI backend and deployed web application
 
-- 📝 AI-powered summarization
-- 🎙️ Text-to-Speech generation
-- 🌐 Telugu NLP pipeline
-- 🧠 Transformer-based language models
-
-**Tech Stack**
-
-`Python` • `PyTorch` • `Transformers` • `FastAPI`
+**Stack:** Python • PyTorch • Hugging Face Transformers • FastAPI • Docker
 
 ---
 
-## ❓ Smart-FAQ
-### Semantic Question Answering System
+### ❓ Smart-FAQ — Semantic Question Answering
 
-A semantic search platform that understands user intent and retrieves accurate answers using vector embeddings instead of keyword matching.
+A semantic FAQ system that retrieves relevant answers based on meaning rather than traditional keyword matching.
 
 **Highlights**
+- Embedding-based retrieval
+- Semantic similarity search
+- REST API backend
+- AI-powered question matching
 
-- 🔎 Semantic similarity search
-- ⚡ High-performance REST APIs
-- 📈 Scalable backend architecture
-- 🧠 Embedding-based retrieval
+**Stack:** Python • FastAPI • SentenceTransformers • Vector Search
 
-**Tech Stack**
-
-`Python` • `FastAPI` • `SentenceTransformers` • `PostgreSQL`
-
-> ⭐ Explore my pinned repositories below for source code, documentation, and live demos.
+> Explore my pinned repositories below for source code, documentation, and demos.
 
 ---
 
-# 📚 Research
+## Research & Achievements
 
-- 📄 Co-authored a research paper submitted to **CIS 2026 (Springer LNNS)**
-- 🔬 Research interests include NLP, LLMs, semantic search, and intelligent information retrieval.
-
----
-
-# 🏆 Achievements
-
-- 🥇 Best Project Award — University Project Expo
-- 📄 Research Paper — CIS 2026 (Springer LNNS)
-- 🤖 Microsoft Agents League Hackathon Participant
-- 🚀 Built multiple AI and backend applications
+- 📄 Co-authored research work submitted to **CIS 2026**
+- 🤖 Participant in the **Agents League — Reasoning Agents** program
+- 🏆 Best Project Award — University Project Expo
+- 🚀 Built and deployed multiple AI and backend applications
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
-### Languages
+**Languages:** Python • Java • JavaScript • SQL
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+**AI / ML:** PyTorch • Hugging Face Transformers • SentenceTransformers • LLMs • RAG
 
-### Backend
+**Backend:** FastAPI • REST APIs • Flask
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/SentenceTransformers-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge"/>
-</p>
-
-### Databases & DevOps
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
+**Data & Infrastructure:** PostgreSQL • MongoDB • ChromaDB • Docker • Git • Linux
 
 ---
 
-# 🤝 Let's Connect
+## Let's Connect
 
-I'm always interested in collaborating on **AI Engineering**, **Backend Development**, **Open Source**, and **Developer Tools**.
+I'm interested in opportunities and collaborations involving **AI Engineering, Backend Development, NLP, LLM applications, and developer tools**.
 
-<p align="center">
-<a href="https://portfolio-harin999s-projects.vercel.app">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/narlakanti-hariharan">💼 LinkedIn</a> •
-<a href="mailto:narlakantihariharan@gmail.com">📧 Email</a>
-</p>
-
----
-
-<p align="center">
-<i>"Building intelligent software that is practical, scalable, and impactful."</i>
-</p>
+<a href="https://portfolio-harin999s-projects.vercel.app">Portfolio</a> •
+<a href="https://www.linkedin.com/in/narlakanti-hariharan">LinkedIn</a> •
+<a href="mailto:narlakantihariharan@gmail.com">Email</a>
